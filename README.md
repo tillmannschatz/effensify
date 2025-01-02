@@ -29,4 +29,5 @@ effensify’s mission is to democratize productivity tools for MS Office users, 
 effensify continues to expand, with new features and plugins on the horizon. As MS Office evolves, so will effensify, ensuring that our users always have the best tools at their fingertips. From refining presentations to managing data and streamlining communication, effensify is the trusted partner in professional productivity.
 
 ## Support
-You like this project? You want to support effensify and help us bring new cool stuff to the community? Well, you can leave a tip [here](https://www.paypal.com/donate/?hosted_button_id=WTLHZ6Q79E966)
+You like this project? You want to support effensify and help us bring new cool stuff to the community? Well, you can leave a tip [here](https://www.paypal.com/donate/?hosted_button_id=WTLHZ6Q79E966) or [here](https://buymeacoffee.com/tillmannschatz
+).
