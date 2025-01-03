@@ -1,6 +1,7 @@
-# effensify: Enhancing Efficiency within MS Office
-![effensify_Title](https://github.com/user-attachments/assets/eb03ebd3-998b-47e2-b781-4a5b36fc08eb)
-
+# effensify - Enhancing Efficiency within MS Office
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2c36898c-8b24-42bb-832f-54c960f53082" alt="effensify_Title" height="500" >
+</p>
 
 ## The Vision
 effensify was born out of a simple yet powerful idea – to empower consultants, analysts, and professionals to maximize their productivity within Microsoft Office. With a name derived from the Latin word "efficere" (to produce or accomplish), effensify embodies the spirit of creating seamless, efficient workflows for those who rely on PowerPoint, Outlook, and Excel every day.
